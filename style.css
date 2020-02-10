@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+body {
+  background: #f5d9d5;
+  font-family: "Nunito", sans-serif;
+}
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+.logo {
+  font-size: 1.5rem;
+  color: #ea1c2c !important;
+}
+#mainNavbar .nav-link {
+  color: #fff;
+}
+#mainNavbar .nav-link:hover {
+  color: #ea1c2c;
+}
